@@ -21,13 +21,15 @@ If all three are empty, stop. Do not write a retro for the feeling of completene
 
 ## One memory
 
-Keep a single running note, `MEMORY.md` or the project's existing decision log. Add at most one bullet:
+File at most one new atom. If the project has `memory/`, use the shelf that fits:
 
-- The sentence.
-- The date.
-- The path or command that makes it true.
+- A correction of a repeated action → `fullspan-correct`.
+- A durable fact or decision → `fullspan-record`.
+- A recurring trap with a concrete action → a runbook line, then `fullspan-curate` if the shelf is over the cap.
 
-Do not archive the chat. Do not store secrets.
+If there is no store yet, `fullspan-record` creates it. Do not also keep a parallel `MEMORY.md` once `memory/INDEX.md` exists.
+
+The atom has a date and a path or command that makes it true. Do not archive the chat. Do not store secrets.
 
 ## Promote or not
 

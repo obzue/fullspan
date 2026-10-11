@@ -38,6 +38,10 @@ A way to make things: software, interfaces, documents, research, pictures, event
 | It is mostly language | `fullspan-voice` |
 | Two or more independent chunks | `fullspan-swarm` |
 | Another session must continue | `fullspan-relay` |
+| Starting work in a project that already remembers | `fullspan-awaken` then `fullspan-recall` |
+| A fact or preference must outlive the session | `fullspan-record` |
+| The user corrects a stored or repeated belief | `fullspan-correct` |
+| The memory store is noisy or duplicated | `fullspan-curate` |
 | Hard to undo, public, or safety-touching | `fullspan-doubt` |
 | The session taught a repeated miss | `fullspan-after`, maybe `fullspan-author` |
 | The main line must stay untouched while you try something | `fullspan-isolate` |

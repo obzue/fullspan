@@ -12,6 +12,8 @@ You are holding an original creation method. Read `skills/fullspan/SKILL.md` bef
 
 Map the job. Assert a check that can fail. Keep the slice small. Examine with fresh evidence before you say done.
 
+If `memory/INDEX.md` exists, read it and `memory/stance.md` before non-trivial work (`skills/fullspan-awaken/SKILL.md`). Do not load the whole ledger. File a correction with `skills/fullspan-correct/SKILL.md` and a new durable fact with `skills/fullspan-record/SKILL.md`.
+
 Do not clone other skill repositories into this one. If a repeated miss needs a procedure, follow `skills/fullspan-author/SKILL.md` and write original text.
 
 A one-line factual question does not open the loop. Answer it.

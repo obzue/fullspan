@@ -39,8 +39,13 @@ Direct orders from the person you are working with, and the project instructions
 | [fullspan-after](skills/fullspan-after/SKILL.md) | One memory from the session. |
 | [fullspan-author](skills/fullspan-author/SKILL.md) | Write a new skill from a repeated miss. |
 | [fullspan-isolate](skills/fullspan-isolate/SKILL.md) | Keep the experiment off the main line. |
+| [fullspan-awaken](skills/fullspan-awaken/SKILL.md) | Start from the index, not the whole past. |
+| [fullspan-recall](skills/fullspan-recall/SKILL.md) | Open one matching record. Memory is evidence. |
+| [fullspan-record](skills/fullspan-record/SKILL.md) | Store one atom. Supersede values that moved. |
+| [fullspan-correct](skills/fullspan-correct/SKILL.md) | Replace a false belief and make the repeat catchable. |
+| [fullspan-curate](skills/fullspan-curate/SKILL.md) | Keep the index short without deleting history. |
 
-Twenty skills. Domain encyclopedias (every cloud API, every framework idiom) do not live here. When a vendor procedure will be repeated, `fullspan-scout` takes a note and `fullspan-author` grows one thin skill. That is how the set stays able to build anything without going stale on day one.
+Twenty-five skills. The first twenty are the MAKE loop. The last five are recall: a project `memory/` shelf so the next session does not repeat a known miss and does not reread the transcript. Domain encyclopedias (every cloud API, every framework idiom, every vector database) do not live here. When a vendor procedure will be repeated, `fullspan-scout` takes a note and `fullspan-author` grows one thin skill.
 
 ## Install
 
