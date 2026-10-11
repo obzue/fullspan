@@ -1,0 +1,17 @@
+# Fullspan for agents
+
+You are holding an original creation method. Read `skills/fullspan/SKILL.md` before any non-trivial making. Open only the other skills the router names.
+
+## Order
+
+1. The person's direct instructions.
+2. The host project's own AGENTS.md, if this folder was copied into a larger repo. The host wins on ports, secrets, deploy, and local conventions.
+3. Fullspan.
+
+## MAKE
+
+Map the job. Assert a check that can fail. Keep the slice small. Examine with fresh evidence before you say done.
+
+Do not clone other skill repositories into this one. If a repeated miss needs a procedure, follow `skills/fullspan-author/SKILL.md` and write original text.
+
+A one-line factual question does not open the loop. Answer it.
