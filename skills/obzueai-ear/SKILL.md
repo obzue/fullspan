@@ -38,6 +38,20 @@ The ear stays open through think and speak. Closing it while she is still formin
 
 This is not a hearing aid and not a medical judgment. It only stops her from taking a turn that is still theirs.
 
+## When they are done
+
+`skills/obzueai-ear/done.sh` separates three questions that get collapsed into one silence timer.
+
+| Question | What answers it | What it must not do |
+|---|---|---|
+| Is this frame sound? | A high bar to start, a lower bar to stay. A short dip is a hang, not silence. | Chop a word ending, or start on a click. |
+| Did the sound stop? | Quiet that lasts through the hang. That result is a gap. | Call the gap her turn. |
+| Is the learner done? | The gap, and the phrase is finished. Only then the action is `done`. | Treat a cough, a backchannel, her echo, or a hush alone as done. |
+
+A click that never holds is dropped. A dip while they are speaking becomes a hang, and if sound returns the hang is cancelled. A hush after the hang is `not-done`. `settled` is refused unless the state is already that gap.
+
+There is no microphone audio in this check. The mic is still denied. The function is the rule a later detector must obey.
+
 ## Before the ear opens
 
 1. The box allows `mic` for this tab, or it stays shut.

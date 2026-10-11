@@ -9,3 +9,4 @@
 2026-10-11T18:13:16Z | deny | speaker | house
 2026-10-11T18:13:16Z | deny | file-write | fullspan/skills/obzueai-ear/turn.sh
 2026-10-11T18:17:46Z | deny | file-write | fullspan/skills/obzueai-ear/pace.sh
+2026-10-11T18:20:55Z | deny | file-write | fullspan/skills/obzueai-ear/done.sh
