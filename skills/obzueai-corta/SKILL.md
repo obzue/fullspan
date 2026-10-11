@@ -23,7 +23,7 @@ One step is `now`. Later steps stay ahead. Do not skip a closed gate in silence.
 | House | ObzueAI is the house. This slice is memory, consent, reasoning, and speech. | The learner knows who is teaching. |
 | Greeting | Which device the lesson uses: desktop, tablet, Android, or iOS. | A device class is named. |
 | Consent | Control is a grant, not a grab. Each grant is its own ask. The shelf is `obzueai-grants`. | Device grant is yes or the lesson stays talk-only. |
-| Voice | Clear English unless a clone id is attached and someone has heard it. | The voice note is honest about what the engine can do. |
+| Voice | Clear English unless a clip has been heard and locked. Spoken rules are `obzueai-voice`. | The voice note is honest about what the engine can do. |
 | Memory | Learner, miss, source, grant, exchange. She does not read the device alone. | Notes exist only for what was said or handed. |
 | Intake | Text, PDF, photo, clip, website, or named software. Nothing else. | At least one source, or one question asking for it. |
 | Script | A beat is a line to say plus a proposed action. A block is written down. | A plan with beats, blocks, and open questions. |

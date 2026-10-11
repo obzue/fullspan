@@ -52,6 +52,8 @@ Also noted while searching, and not used as source text: `sickn33/antigravity-aw
 
 `fullspan-shelf` is a map of titles that public lists kept repeating on 2026-10-11. No chapter was copied. The file is `memory/shelf.md`.
 
+`obzueai-voice` and `obzueai-aware` were written on 2026-10-11 after reading how other packs handle spoken delivery, turn-taking, a read-back before a write, and noticing a missing fact before a high-stakes claim. Their names, presets, and color codes were not brought over. A voice here is heard before it is locked. Awareness is a card rebuilt from the grant log.
+
 ## License stance
 
 Upstream packs remain under their own licenses (MIT and Apache-2.0 were the ones named on the methodology repos; some document skills upstream are source-available rather than open). Fullspan's own files are MIT. Similarity of *ideas* (write the test first, find the root cause, ask one question) is expected. Those ideas are older than any of these repositories. The words here were written for this set.

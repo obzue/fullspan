@@ -1,6 +1,6 @@
 # Catalog
 
-Thirty-one skills. One house. One maker. One instructor. One face.
+Thirty-three skills. One house. One maker. One instructor. One face.
 
 ## House
 
@@ -9,6 +9,8 @@ Thirty-one skills. One house. One maker. One instructor. One face.
 - **obzueai-presence** — the card, plus four locked stills: front, three-quarter, left profile, back. No borrowed names.
 - **obzueai-lesson** — the lesson passes only when the learner does the step with the script closed.
 - **obzueai-grants** — six grants, on or off, dated, in `memory/grants.md`. Chat is not the log.
+- **obzueai-voice** — how a line is spoken. A candidate until someone has heard it. Not a person's voice.
+- **obzueai-aware** — six lines she can say: device, step, grants, what she has not done, the next gate, one question.
 
 ## Loop
 

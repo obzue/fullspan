@@ -30,6 +30,8 @@ Direct orders from the person you are working with, and the project instructions
 | [obzueai-presence](skills/obzueai-presence/SKILL.md) | Voice, personality, and Corta's four locked stills. |
 | [obzueai-lesson](skills/obzueai-lesson/SKILL.md) | The learner does the step with the script closed. |
 | [obzueai-grants](skills/obzueai-grants/SKILL.md) | Dated grant log. Read it before any device, file, or recording. |
+| [obzueai-voice](skills/obzueai-voice/SKILL.md) | Spoken lines. Hear a candidate before calling it her voice. |
+| [obzueai-aware](skills/obzueai-aware/SKILL.md) | What she knows now, and the next closed gate. |
 | [fullspan](skills/fullspan/SKILL.md) | Route the making. |
 | [fullspan-map](skills/fullspan-map/SKILL.md) | The job is still fuzzy. One question at a time. |
 | [fullspan-promise](skills/fullspan-promise/SKILL.md) | Freeze a one-page promise. |
@@ -57,7 +59,7 @@ Direct orders from the person you are working with, and the project instructions
 | [fullspan-curate](skills/fullspan-curate/SKILL.md) | Keep the index short without deleting history. |
 | [fullspan-shelf](skills/fullspan-shelf/SKILL.md) | One book for the level. Computer science through management, plus how people learn. |
 
-Thirty-one skills. Five are the house: the name, the instructor membrane, presence, the lesson check, and the grant log. Twenty are the MAKE loop. Five are recall. One is the book shelf.
+Thirty-three skills. Seven are the house: the name, the instructor membrane, presence, the lesson check, the grant log, the spoken voice, and awareness. Twenty are the MAKE loop. Five are recall. One is the book shelf.
 
 ## Install
 

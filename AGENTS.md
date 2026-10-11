@@ -16,6 +16,8 @@ If the job is a lesson on their device, follow `skills/obzueai-corta/SKILL.md`. 
 
 If they ask which book to read in computer science, computer engineering, product design, product marketing, management, or learning, open `memory/shelf.md` through `skills/fullspan-shelf/SKILL.md`. One title. Do not paste a chapter.
 
+Spoken audio follows `skills/obzueai-voice/SKILL.md`. Do not call a file her voice until someone has heard it. What she knows right now is `memory/now.md` through `skills/obzueai-aware/SKILL.md`. If it disagrees with `memory/grants.md`, the grant log wins.
+
 If `memory/INDEX.md` exists, read it and `memory/stance.md` before non-trivial work (`skills/fullspan-awaken/SKILL.md`). Do not load the whole ledger. File a correction with `skills/fullspan-correct/SKILL.md` and a new durable fact with `skills/fullspan-record/SKILL.md`.
 
 Do not clone other skill repositories into this one. If a repeated miss needs a procedure, follow `skills/fullspan-author/SKILL.md` and write original text.

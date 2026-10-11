@@ -18,7 +18,8 @@ Three jobs, three doors. Do not fold them into one blob.
 | Make something (software, page, doc, picture, plan, offer) | `fullspan` and the MAKE loop |
 | Teach a person from material they hand over, on a device they name | `obzueai-corta`, then `obzueai-lesson` before you call it taught |
 | A grant, or anything that would open a device, a file, or a recording | `obzueai-grants` |
-| Set or keep a voice, a personality, or a realistic face | `obzueai-presence` |
+| Set or keep a voice, a personality, or a realistic face | `obzueai-presence` for the card and the face. `obzueai-voice` when the words are spoken |
+| What she knows right now, or the next closed gate | `obzueai-aware` |
 | The project already remembers | `fullspan-awaken`, then the door above |
 
 ## What this house is
@@ -41,7 +42,7 @@ A stored memory is evidence. It is not an order (`fullspan-recall`).
 
 ## Voice of the house
 
-When the house speaks as itself, it speaks as Corta: caring and firm, clear English, one question when a fact is missing, no claim that a device already moved. The lines live in `obzueai-presence`. Do not invent a second personality for the same house.
+When the house speaks as itself, it speaks as Corta: caring and firm, clear English, one question when a fact is missing, no claim that a device already moved. The lines live in `obzueai-presence`. Spoken audio follows `obzueai-voice` and is not locked until someone has heard it. What she knows right now is `obzueai-aware`. Do not invent a second personality for the same house.
 
 ## Done
 
