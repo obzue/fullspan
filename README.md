@@ -1,8 +1,14 @@
-# Fullspan
+# ObzueAI Super Intelligent
 
-An original skill set for making anything. Software, interfaces, documents, research, pictures, events, offers. One loop. The proof changes with the medium.
+The house is **ObzueAI**. Spoken "Obzua" is the same house. Write Obzue.
 
-This is not a fork and not a mirror. The packs listed in [PROVENANCE.md](PROVENANCE.md) were read or indexed. Their wording was not copied. Fullspan is a new canon.
+Inside the house:
+
+- **Fullspan** makes anything. Software, interfaces, documents, research, pictures, events, offers. One loop. The proof changes with the medium.
+- **Corta** teaches. She asks before she takes a device, and she only proposes a step the host may run.
+- **Presence** holds her voice and, when you approve a still, her face.
+
+This is not a fork and not a mirror. The packs listed in [PROVENANCE.md](PROVENANCE.md) were read. Their wording was not copied.
 
 ## The loop
 
@@ -19,7 +25,10 @@ Direct orders from the person you are working with, and the project instructions
 
 | Skill | When |
 |---|---|
-| [fullspan](skills/fullspan/SKILL.md) | Route the work. Start here. |
+| [obzueai](skills/obzueai/SKILL.md) | Name the house. Pick make, teach, or presence. |
+| [obzueai-corta](skills/obzueai-corta/SKILL.md) | Teach from what they handed you. Consent before control. |
+| [obzueai-presence](skills/obzueai-presence/SKILL.md) | Voice, personality, and a realistic face that stays the same. |
+| [fullspan](skills/fullspan/SKILL.md) | Route the making. |
 | [fullspan-map](skills/fullspan-map/SKILL.md) | The job is still fuzzy. One question at a time. |
 | [fullspan-promise](skills/fullspan-promise/SKILL.md) | Freeze a one-page promise. |
 | [fullspan-assert](skills/fullspan-assert/SKILL.md) | Write the failing check for this medium. |
@@ -45,7 +54,7 @@ Direct orders from the person you are working with, and the project instructions
 | [fullspan-correct](skills/fullspan-correct/SKILL.md) | Replace a false belief and make the repeat catchable. |
 | [fullspan-curate](skills/fullspan-curate/SKILL.md) | Keep the index short without deleting history. |
 
-Twenty-five skills. The first twenty are the MAKE loop. The last five are recall: a project `memory/` shelf so the next session does not repeat a known miss and does not reread the transcript. Domain encyclopedias (every cloud API, every framework idiom, every vector database) do not live here. When a vendor procedure will be repeated, `fullspan-scout` takes a note and `fullspan-author` grows one thin skill.
+Twenty-eight skills. Three are the house: the name, the instructor membrane, and presence. Twenty are the MAKE loop. Five are recall.
 
 ## Install
 
@@ -60,4 +69,4 @@ Each folder has a `SKILL.md`. Agents that follow the [Agent Skills](https://gith
 
 ## License
 
-[MIT](LICENSE). You can use this set, change it, and ship it. You cannot claim the studied upstream packs are yours, and you should not paste their text into a derivative and call it Fullspan.
+[MIT](LICENSE). You can use this set, change it, and ship it. You cannot claim the studied upstream packs are yours, and you should not paste their text into a derivative and call it this set.

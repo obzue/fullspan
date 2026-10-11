@@ -28,6 +28,12 @@ Fullspan was designed in October 2026 by reading public agent-skill packs and wr
 | [YpipaQ/agent-memory-kit-skills](https://github.com/YpipaQ/agent-memory-kit-skills) | Hot rules, stable settings, and volatile numbers live in different places. A fact has one home. | Read the kit overview. |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Preferences stay small and always available. Procedures load only when the task matches. | Read the public description of that split. |
 | [mem0ai/mem0](https://github.com/mem0ai/mem0), [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory), [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hosted or indexed memory products. Useful as systems, not as procedures to vendor. | Noted. Not transcribed. |
+| [obzue/ObzueAI-Corta-Membrane](https://github.com/obzue/ObzueAI-Corta-Membrane) | The owner's instructor membrane: a fixed sequence, separate grants, honest voice limits, a script of say-plus-action, and a host that only proposes. | Read the membrane sources. Rewrote the behavior as `obzueai-corta`. Did not paste the code. |
+| [telagod/code-abyss](https://github.com/telagod/code-abyss) | A character is what changes the reply when the rules run out. Dissent, candor, and initiative are policies, not a costume. | Read the character router. |
+| [acnlabs/OpenPersona](https://github.com/acnlabs/OpenPersona) | A speaker needs identity, speech, boundaries, and traits that do not drift. A real person's likeness carries a disclosure duty. | Read the persona skill's model. Did not take its schema, presets, or installer. |
+| [heygen-com/skills](https://github.com/heygen-com/skills) | A realistic talking face starts from a still, a prompt, or a consented recording. Identity stays; a look can change. Hear a voice before you commit to it. | Read the avatar-creation notes. No product API in our skill. |
+| [fal-ai-community/skills](https://github.com/fal-ai-community/skills) | Keep an identity anchor stable and vary only the shot. Reject drift of face, hair, marks, and body. | Read the character-design skill. |
+| [calesthio/generative-media-skills](https://github.com/calesthio/generative-media-skills) | Continuity is a bible plus a rights check, not a prompt trick. Three distances catch an accidental likeness. Repair one variable. | Read the continuity skill. |
 
 Also noted while searching, and not used as source text: `sickn33/antigravity-awesome-skills` (a large curated bundle), `VoltAgent/awesome-agent-skills` (a list of lists), `kevinnft/ai-agent-skills` (an attributed installer). Bundles of bundles were not treated as a canon to merge.
 
@@ -38,6 +44,7 @@ Also noted while searching, and not used as source text: `sickn33/antigravity-aw
 - Copied prompt templates, red-flag tables, and iron-law slogans.
 - Per-cloud and per-framework encyclopedias. Fullspan grows those, when needed, through `fullspan-author`.
 - Hosted memory products and their CLIs. Recall here is files plus rules, so it works with no account.
+- Vendor avatar APIs, persona installers, and any catalog of famous people. Presence keeps the behavior and refuses the names.
 
 ## License stance
 

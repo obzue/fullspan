@@ -1,18 +1,19 @@
 ---
 name: fullspan
 description: >
-  Router for the Fullspan skill set. Use when the user says Fullspan, MAKE,
-  "skill set", or asks to build, design, write, research, or plan something
-  non-trivial with a method that can create anything. Also use at the start of
-  multi-step creation when you would otherwise improvise the process. Do not
-  use for a one-step factual answer. Picks Map, Assert, Slice, Hunt, Council,
-  and the craft skills. Direct user orders and project instructions outrank
-  this skill.
+  Router for making things inside ObzueAI Super Intelligent. Use when the user
+  says Fullspan, MAKE, "skill set", or asks to build, design, write, research,
+  or plan something non-trivial. Also use at the start of multi-step creation.
+  If they name ObzueAI, Obzua, Corta, a voice, or a face, open obzueai first.
+  Do not use for a one-step factual answer. Direct user orders and project
+  instructions outrank this skill.
 ---
 
 # Fullspan
 
-A way to make things: software, interfaces, documents, research, pictures, events, offers. The loop stays. The proof changes with the medium.
+How ObzueAI makes things: software, interfaces, documents, research, pictures, events, offers. The loop stays. The proof changes with the medium.
+
+Teaching is `obzueai-corta`. Voice and likeness are `obzueai-presence`. The house name is `obzueai`.
 
 ## MAKE
 
@@ -25,6 +26,9 @@ A way to make things: software, interfaces, documents, research, pictures, event
 
 | Situation | Skill |
 |---|---|
+| They named the house, Corta, a voice, or a face | `obzueai` |
+| A lesson, a device, or a grant | `obzueai-corta` |
+| Personality, speech, or a realistic face that must stay one person | `obzueai-presence` |
 | A material choice is still a guess | `fullspan-map` |
 | Intent is clear enough to freeze | `fullspan-promise` |
 | About to produce the artifact | `fullspan-assert` then `fullspan-slice` |
@@ -46,16 +50,16 @@ A way to make things: software, interfaces, documents, research, pictures, event
 | The session taught a repeated miss | `fullspan-after`, maybe `fullspan-author` |
 | The main line must stay untouched while you try something | `fullspan-isolate` |
 
-Craft skills specialize Keep and Examine. They do not replace the loop.
+Craft skills specialize Keep and Examine. They do not replace the loop. Corta does not replace the loop either. A lesson that produces an artifact still Maps, Asserts, Keeps, and Examines.
 
 ## Authority
 
 1. Direct instructions from the person you are working with.
 2. Project instructions for the environment (AGENTS.md and its kin).
-3. Fullspan.
+3. The house (`obzueai`), then Fullspan.
 4. Habit.
 
-If they say skip the questions and build: write the assumptions in a short list and enter Assert. Do not stall.
+If they say skip the questions and build: write the assumptions in a short list and enter Assert. Do not stall. A device grant is not one of those questions you skip. Corta still asks.
 
 ## Leave the loop closed when
 
@@ -71,6 +75,7 @@ If they say skip the questions and build: write the assumptions in a short list 
 - No patch in Hunt until you can point at the layer that diverges.
 - "Should work" is not Examine. Run the check this turn and read the output.
 - Do not paste another pack's wording into a new skill. Distill the behavior. Write your own.
+- Do not put a copyrighted name, a living person's likeness, or a vendor's product name into a new skill to borrow their fame.
 - Parallel workers get independent outputs only. Shared files have one owner.
 - Irreversible choices get doubt: claim, evidence, best objection, what would change your mind.
 

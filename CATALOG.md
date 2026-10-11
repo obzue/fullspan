@@ -1,6 +1,12 @@
 # Catalog
 
-Twenty-five skills. One router. The rest are steps, crafts, or recall.
+Twenty-eight skills. One house. One maker. One instructor. One face.
+
+## House
+
+- **obzueai** — ObzueAI Super Intelligent. Choose make, teach, or presence. Spoken Obzua, written Obzue.
+- **obzueai-corta** — greeting, consent, voice, memory, intake, script, reason, host. She proposes. She does not pretend the device moved.
+- **obzueai-presence** — the card (who speaks) and the face (one approved still, then variants). No borrowed names.
 
 ## Loop
 
@@ -35,7 +41,7 @@ Plain files under `memory/`. No daemon required. A vendor memory tool may sit un
 - **fullspan-measure** — one number, one target, one change, measure again.
 - **fullspan-scout** — sources versus guesses. Official docs beat memory.
 - **fullspan-surface** — one primary action, real states, narrow width, look at it.
-- **fullspan-voice** — reader, job, claim, beats, then sentences, then the cut.
+- **fullspan-voice** — reader, job, claim, beats, then sentences, then the cut. For prose. A speaker's personality is `obzueai-presence`, not this skill.
 
 ## Collaboration with yourself
 
@@ -47,3 +53,5 @@ Plain files under `memory/`. No daemon required. A vendor memory tool may sit un
 ## What this catalog refuses to be
 
 A thousand framework recipes. Those were indexed in upstream packs and left there on purpose. Vendor truth goes stale. Scout it when the slice needs it. Author a thin skill only if this project will do it again.
+
+A costume of a real person. Presence will not wear one.
