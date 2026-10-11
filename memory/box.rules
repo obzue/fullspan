@@ -11,6 +11,7 @@ deny file-write fullspan/skills/obzueai-box/check.sh
 deny file-write fullspan/skills/obzueai-watch/look.sh
 deny file-write fullspan/skills/obzueai-ear/turn.sh
 deny file-write fullspan/skills/obzueai-ear/tab.sh
+deny file-write fullspan/skills/obzueai-ear/pace.sh
 deny net *
 deny secret *
 deny process *

@@ -32,6 +32,12 @@ Adding an agent is a new line. It does not hear the others. Joining two tabs is 
 
 The ear stays open through think and speak. Closing it while she is still forming a sentence is how a reply talks over the person.
 
+## A slower turn
+
+`skills/obzueai-ear/pace.sh` is the same ear with one harder wait. Use it when a quiet stretch is likely, including with an older learner. A pause and a long pause both stay on listen. She does not answer. `again` repeats the last sentence and does not advance the lesson. Only an explicit `end` lets her answer.
+
+This is not a hearing aid and not a medical judgment. It only stops her from taking a turn that is still theirs.
+
 ## Before the ear opens
 
 1. The box allows `mic` for this tab, or it stays shut.
