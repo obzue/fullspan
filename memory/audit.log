@@ -17,3 +17,9 @@
 2026-10-11T18:28:11Z | allow | camera | house
 2026-10-11T18:28:11Z | deny | camera | spare
 2026-10-11T18:28:11Z | deny | file-write | fullspan/skills/obzueai-lens/view.sh
+2026-10-11T18:32:36Z | allow | camera | house
+2026-10-11T18:32:36Z | allow | mic | house
+2026-10-11T18:32:36Z | allow | speaker | house
+2026-10-11T18:32:36Z | allow | speaker | house
+2026-10-11T18:32:36Z | deny | mic | spare
+2026-10-11T18:32:36Z | deny | speaker | spare

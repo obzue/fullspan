@@ -50,7 +50,13 @@ This is not a hearing aid and not a medical judgment. It only stops her from tak
 
 A click that never holds is dropped. A dip while they are speaking becomes a hang, and if sound returns the hang is cancelled. A hush after the hang is `not-done`. `settled` is refused unless the state is already that gap.
 
-There is no microphone audio in this check. The mic is still denied. The function is the rule a later detector must obey.
+There is no microphone on this machine. The house tab is allowed to try. Other tabs are denied. `recognize.sh` returns words only when a recognizer is installed and a file is given. A missing mic is `no-audio`. Sound with no recognizer is `sound-unrecognized`. Neither is a guessed sentence.
+
+## Feedback
+
+`feedback.sh` plays one tone and says one sentence. The tone is the sound. The sentence is the voice, and that voice is still the candidate, not a lock. The house speaker may play it. Another tab may not.
+
+`skills/obzueai/attend.sh` is one pass: look, then listen, then the cue.
 
 ## Before the ear opens
 
