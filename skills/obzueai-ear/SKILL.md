@@ -50,7 +50,7 @@ This is not a hearing aid and not a medical judgment. It only stops her from tak
 
 A click that never holds is dropped. A dip while they are speaking becomes a hang, and if sound returns the hang is cancelled. A hush after the hang is `not-done`. `settled` is refused unless the state is already that gap.
 
-There is no microphone on this machine. The house tab is allowed to try a file. Other tabs are denied. A file is shaped first: noise gate, leveler, then real frame energy. `recognize.sh` returns words only from the local ear model on that shaped file. A missing mic is `no-audio`. A file with no words is `quiet`. It does not guess a sentence. The ear model is not the mouth. The mouth is locked to candidate A in `memory/voice.md`.
+There is no microphone on this machine. The house tab is allowed to try a file. Other tabs are denied. A file is shaped first, with the pedalboard package: a noise gate, a leveler, then real frame energy. `recognize.sh` returns words only from the local ear model on that shaped file. A missing mic is `no-audio`. A file with no words is `quiet`. It does not guess a sentence. The ear model is not the mouth. The mouth is locked to candidate A in `memory/voice.md`.
 
 ## Feedback
 
