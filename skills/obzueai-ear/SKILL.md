@@ -52,6 +52,10 @@ A click that never holds is dropped. A dip while they are speaking becomes a han
 
 There is no microphone on this machine. The house tab is allowed to try a file. Other tabs are denied. A file is shaped first, with the pedalboard package: a noise gate, a leveler, then real frame energy. `recognize.sh` returns words only from the local ear model on that shaped file. A missing mic is `no-audio`. A file with no words is `quiet`. It does not guess a sentence. The ear model is not the mouth. The mouth is locked to candidate A in `memory/voice.md`.
 
+## Dip and hush
+
+`shape.py` marks the sound. `walk.sh` decides the turn. A dip is the first quiet inside speech: hold, do not answer. If the voice comes back before the hang runs out, the dip is cancelled and it is still the same turn. A hush is that hang finished: a gap. The gap is `not-done`. `settled` is allowed only from a gap, and only when the words are in. A hush alone never closes the turn.
+
 ## Feedback
 
 `feedback.sh` says one sentence in the locked mouth. No tone. The house speaker may play it. Another tab may not.
