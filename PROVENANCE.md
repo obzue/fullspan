@@ -60,6 +60,8 @@ Also noted while searching, and not used as source text: `sickn33/antigravity-aw
 
 `obzueai-lens` was written after reading one-shot camera skills and opt-in screen looking. The useful part is a single frame that must be used, with the camera off before and after. Always-on watching and matching a person were left out. The name lens is ours.
 
+The mouth is two host-engine candidates, not a model trained for this house. The ear is a small unmodified English recognition pack, stored under `skills/obzueai-ear/ear-model`. It writes words. It does not speak.
+
 ## License stance
 
 Upstream packs remain under their own licenses (MIT and Apache-2.0 were the ones named on the methodology repos; some document skills upstream are source-available rather than open). Fullspan's own files are MIT. Similarity of *ideas* (write the test first, find the root cause, ask one question) is expected. Those ideas are older than any of these repositories. The words here were written for this set.

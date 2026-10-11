@@ -16,6 +16,8 @@ deny file-write fullspan/skills/obzueai-ear/done.sh
 deny file-write fullspan/skills/obzueai-lens/frame.sh
 deny file-write fullspan/skills/obzueai-lens/view.sh
 deny file-write fullspan/skills/obzueai-ear/recognize.sh
+deny file-write fullspan/skills/obzueai-ear/transcribe.py
+deny file-write fullspan/skills/obzueai-ear/ear-model
 deny file-write fullspan/skills/obzueai-ear/feedback.sh
 deny file-write fullspan/skills/obzueai/attend.sh
 allow camera house

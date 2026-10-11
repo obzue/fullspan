@@ -23,3 +23,8 @@
 2026-10-11T18:32:36Z | allow | speaker | house
 2026-10-11T18:32:36Z | deny | mic | spare
 2026-10-11T18:32:36Z | deny | speaker | spare
+2026-10-11T18:39:49Z | allow | mic | house
+2026-10-11T18:40:17Z | allow | camera | house
+2026-10-11T18:40:17Z | allow | mic | house
+2026-10-11T18:40:19Z | allow | speaker | house
+2026-10-11T18:40:19Z | allow | speaker | house

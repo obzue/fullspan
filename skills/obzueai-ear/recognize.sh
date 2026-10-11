@@ -24,23 +24,13 @@ if [ ! -f "$file" ]; then
   exit 3
 fi
 
-if command -v whisper >/dev/null 2>&1; then
-  whisper "$file" --language en --output_format txt --output_dir /tmp >/dev/null
-  base=$(basename "$file")
-  stem=${base%.*}
-  text=$(tr '\n' ' ' < "/tmp/${stem}.txt" 2>/dev/null || true)
-  if [ -n "$text" ]; then
-    echo "heard $text"
-    exit 0
-  fi
+wav=/tmp/obzue-hear.wav
+rm -f "$wav"
+ffmpeg -y -loglevel error -i "$file" -ac 1 -ar 16000 "$wav"
+text=$(python3 "$ROOT/skills/obzueai-ear/transcribe.py" "$wav" || true)
+if [ -n "$text" ]; then
+  echo "heard $text"
+  exit 0
 fi
-
-mean=$(ffmpeg -i "$file" -af volumedetect -f null - 2>&1 | awk -F': ' '/mean_volume/ {print $2}')
-case $mean in
-  ""|-inf*|-*[6-9][0-9].[0-9]*dB|-*[0-9][0-9][0-9]*)
-    echo "quiet $tab"
-    exit 0
-    ;;
-esac
-echo "sound-unrecognized $tab"
-exit 4
+echo "quiet $tab"
+exit 5
