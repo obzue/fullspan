@@ -50,6 +50,8 @@ Also noted while searching, and not used as source text: `sickn33/antigravity-aw
 
 `obzueai-lesson` and `obzueai-grants` were not taken from a pack. The membrane could write a script and still not know if anyone learned it, and a grant could live only in chat. Those two gaps became skills on 2026-10-11.
 
+`fullspan-shelf` is a map of titles that public lists kept repeating on 2026-10-11. No chapter was copied. The file is `memory/shelf.md`.
+
 ## License stance
 
 Upstream packs remain under their own licenses (MIT and Apache-2.0 were the ones named on the methodology repos; some document skills upstream are source-available rather than open). Fullspan's own files are MIT. Similarity of *ideas* (write the test first, find the root cause, ask one question) is expected. Those ideas are older than any of these repositories. The words here were written for this set.

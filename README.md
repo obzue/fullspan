@@ -55,8 +55,9 @@ Direct orders from the person you are working with, and the project instructions
 | [fullspan-record](skills/fullspan-record/SKILL.md) | Store one atom. Supersede values that moved. |
 | [fullspan-correct](skills/fullspan-correct/SKILL.md) | Replace a false belief and make the repeat catchable. |
 | [fullspan-curate](skills/fullspan-curate/SKILL.md) | Keep the index short without deleting history. |
+| [fullspan-shelf](skills/fullspan-shelf/SKILL.md) | One book for the level. Computer science through management, plus how people learn. |
 
-Thirty skills. Five are the house: the name, the instructor membrane, presence, the lesson check, and the grant log. Twenty are the MAKE loop. Five are recall.
+Thirty-one skills. Five are the house: the name, the instructor membrane, presence, the lesson check, and the grant log. Twenty are the MAKE loop. Five are recall. One is the book shelf.
 
 ## Install
 

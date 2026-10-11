@@ -1,6 +1,6 @@
 # Catalog
 
-Thirty skills. One house. One maker. One instructor. One face.
+Thirty-one skills. One house. One maker. One instructor. One face.
 
 ## House
 
@@ -36,6 +36,7 @@ Plain files under `memory/`. No daemon required. A vendor memory tool may sit un
 - **fullspan-record** — one atom. Search first. Supersede moving values. No secrets, no transcripts.
 - **fullspan-correct** — false belief, the replacement, and a catch. The old file stays as history and leaves the index.
 - **fullspan-curate** — merge duplicates, cap the runbook, do not delete history, do not let memory rewrite policy by itself.
+- **fullspan-shelf** — one book from `memory/shelf.md` for the level in front of you. No chapters copied in.
 
 ## Craft
 

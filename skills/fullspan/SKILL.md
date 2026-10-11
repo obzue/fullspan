@@ -38,6 +38,7 @@ Teaching is `obzueai-corta`. Voice and likeness are `obzueai-presence`. The hous
 | Crosses a trust boundary (auth, money, private data, public input) | `fullspan-shield` |
 | Someone wants it faster, smaller, or cheaper | `fullspan-measure` first |
 | The facts live outside your head or in a vendor's docs | `fullspan-scout` |
+| They ask for the best books, or a field on the shelf | `fullspan-shelf` |
 | People will look at it | `fullspan-surface` |
 | It is mostly language | `fullspan-voice` |
 | Two or more independent chunks | `fullspan-swarm` |
