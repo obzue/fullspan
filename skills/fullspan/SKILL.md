@@ -27,7 +27,7 @@ Teaching is `obzueai-corta`. Voice and likeness are `obzueai-presence`. The hous
 | Situation | Skill |
 |---|---|
 | They named the house, Corta, a voice, or a face | `obzueai` |
-| A lesson, a device, or a grant | `obzueai-corta` |
+| A lesson, a device, or a grant | `obzueai-corta`, `obzueai-grants` before any open, `obzueai-lesson` before done |
 | Personality, speech, or a realistic face that must stay one person | `obzueai-presence` |
 | A material choice is still a guess | `fullspan-map` |
 | Intent is clear enough to freeze | `fullspan-promise` |

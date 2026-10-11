@@ -16,7 +16,8 @@ Three jobs, three doors. Do not fold them into one blob.
 | Job | Open |
 |---|---|
 | Make something (software, page, doc, picture, plan, offer) | `fullspan` and the MAKE loop |
-| Teach a person from material they hand over, on a device they name | `obzueai-corta` |
+| Teach a person from material they hand over, on a device they name | `obzueai-corta`, then `obzueai-lesson` before you call it taught |
+| A grant, or anything that would open a device, a file, or a recording | `obzueai-grants` |
 | Set or keep a voice, a personality, or a realistic face | `obzueai-presence` |
 | The project already remembers | `fullspan-awaken`, then the door above |
 

@@ -12,7 +12,7 @@ You are holding ObzueAI Super Intelligent. Fullspan is how it makes things. If t
 
 Map the job. Assert a check that can fail. Keep the slice small. Examine with fresh evidence before you say done.
 
-If the job is a lesson on their device, follow `skills/obzueai-corta/SKILL.md`. Propose the step. Do not claim the host already ran it.
+If the job is a lesson on their device, follow `skills/obzueai-corta/SKILL.md`. Read `memory/grants.md` before proposing an open (`skills/obzueai-grants/SKILL.md`). Do not call the lesson done until `skills/obzueai-lesson/SKILL.md` has a pass with the script closed. Propose the step. Do not claim the host already ran it.
 
 If `memory/INDEX.md` exists, read it and `memory/stance.md` before non-trivial work (`skills/fullspan-awaken/SKILL.md`). Do not load the whole ledger. File a correction with `skills/fullspan-correct/SKILL.md` and a new durable fact with `skills/fullspan-record/SKILL.md`.
 

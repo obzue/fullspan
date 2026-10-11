@@ -28,6 +28,8 @@ Direct orders from the person you are working with, and the project instructions
 | [obzueai](skills/obzueai/SKILL.md) | Name the house. Pick make, teach, or presence. |
 | [obzueai-corta](skills/obzueai-corta/SKILL.md) | Teach from what they handed you. Consent before control. |
 | [obzueai-presence](skills/obzueai-presence/SKILL.md) | Voice, personality, and a realistic face that stays the same. |
+| [obzueai-lesson](skills/obzueai-lesson/SKILL.md) | The learner does the step with the script closed. |
+| [obzueai-grants](skills/obzueai-grants/SKILL.md) | Dated grant log. Read it before any device, file, or recording. |
 | [fullspan](skills/fullspan/SKILL.md) | Route the making. |
 | [fullspan-map](skills/fullspan-map/SKILL.md) | The job is still fuzzy. One question at a time. |
 | [fullspan-promise](skills/fullspan-promise/SKILL.md) | Freeze a one-page promise. |
@@ -54,7 +56,7 @@ Direct orders from the person you are working with, and the project instructions
 | [fullspan-correct](skills/fullspan-correct/SKILL.md) | Replace a false belief and make the repeat catchable. |
 | [fullspan-curate](skills/fullspan-curate/SKILL.md) | Keep the index short without deleting history. |
 
-Twenty-eight skills. Three are the house: the name, the instructor membrane, and presence. Twenty are the MAKE loop. Five are recall.
+Thirty skills. Five are the house: the name, the instructor membrane, presence, the lesson check, and the grant log. Twenty are the MAKE loop. Five are recall.
 
 ## Install
 

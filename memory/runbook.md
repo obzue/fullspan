@@ -18,3 +18,7 @@ Shelves stay at or under 10 lines. Each line is an action.
 
 1. **[2026-10-11] About to say the device, app, or recording already happened**
    Do instead: propose the step and name the grant. Open `obzueai-corta`.
+2. **[2026-10-11] About to call a lesson done because the script was read**
+   Do instead: close the script and let them do the one step. Open `obzueai-lesson`.
+3. **[2026-10-11] About to treat a chat sentence as a grant**
+   Do instead: change a row in `memory/grants.md`. Open `obzueai-grants`.

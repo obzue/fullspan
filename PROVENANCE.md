@@ -46,6 +46,10 @@ Also noted while searching, and not used as source text: `sickn33/antigravity-aw
 - Hosted memory products and their CLIs. Recall here is files plus rules, so it works with no account.
 - Vendor avatar APIs, persona installers, and any catalog of famous people. Presence keeps the behavior and refuses the names.
 
+## Written here, not borrowed
+
+`obzueai-lesson` and `obzueai-grants` were not taken from a pack. The membrane could write a script and still not know if anyone learned it, and a grant could live only in chat. Those two gaps became skills on 2026-10-11.
+
 ## License stance
 
 Upstream packs remain under their own licenses (MIT and Apache-2.0 were the ones named on the methodology repos; some document skills upstream are source-available rather than open). Fullspan's own files are MIT. Similarity of *ideas* (write the test first, find the root cause, ask one question) is expected. Those ideas are older than any of these repositories. The words here were written for this set.
