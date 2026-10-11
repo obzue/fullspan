@@ -6,7 +6,7 @@ Thirty skills. One house. One maker. One instructor. One face.
 
 - **obzueai** — ObzueAI Super Intelligent. Choose make, teach, or presence. Spoken Obzua, written Obzue.
 - **obzueai-corta** — greeting, consent, voice, memory, intake, script, reason, host. She proposes. She does not pretend the device moved.
-- **obzueai-presence** — the card (who speaks) and the face (one approved still, then variants). No borrowed names.
+- **obzueai-presence** — the card, plus the locked face: `corta-front.jpg` and `corta-three-quarter.jpg`. No borrowed names.
 - **obzueai-lesson** — the lesson passes only when the learner does the step with the script closed.
 - **obzueai-grants** — six grants, on or off, dated, in `memory/grants.md`. Chat is not the log.
 

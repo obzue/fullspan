@@ -4,9 +4,10 @@ description: >
   Voice, personality, and a realistic likeness for ObzueAI. Use when setting
   how Corta or another original speaker talks, disagrees, or refuses, or when
   designing a photoreal face, portrait sheet, talking picture, or a character
-  that must stay the same person across shots. Triggers on persona, personality,
-  voice, avatar, likeness, portrait, character sheet. Not for copying a living
-  person, a public figure, or a protected character.
+  that must stay the same person across shots. Corta's locked stills are
+  corta-front.jpg and corta-three-quarter.jpg in this folder. Triggers on
+  persona, personality, voice, avatar, likeness, portrait, character sheet.
+  Not for copying a living person, a public figure, or a protected character.
 ---
 
 # Presence
@@ -105,7 +106,23 @@ Leave four things: the card, the anchor paragraph, the path of the approved stil
 
 ## Corta's face
 
-Not locked to a picture yet. When a still is wanted: an original adult woman, late-thirties read, calm posture, even light, no glasses, one small mark the person chooses and we then freeze, wardrobe with a deep green accent and no logo. She is not a copy of a public person. No canon file exists until they approve one still.
+Locked on 2026-10-11. Original fictional adult. Not a real person and not a public figure. Do not generate a new front. Start from these files.
+
+| View | File |
+|---|---|
+| Front, neutral, mouth closed | `corta-front.jpg` in this folder |
+| Three-quarter, her left cheek toward the camera | `corta-three-quarter.jpg` in this folder |
+
+Anchor, taken from the front still:
+
+- Late-thirties read. Medium-brown skin with visible texture. Squared oval. Straight medium nose. Dark brown eyes. Natural dark brows. Mouth closed.
+- Hair: dark brown, center part, shoulder length, soft wave at the ends. Ears mostly covered.
+- One mark: a small solid black dot on her own left cheek, beside the left corner of the mouth. On the front still that is the viewer's right. No second mark. No glasses. No jewelry. No logo.
+- Wardrobe for these stills: black crew neck, deep green ribbed collar. Even light. Dark charcoal ground.
+
+On the three-quarter the same dot stays on her left cheek and sits a little above the lip corner. That shift is known. Do not add a second dot to "fix" it. Do not move the dot to the other cheek.
+
+Profile and the expression set are not locked yet. Make them from `corta-front.jpg`, not from a fresh description. A talking picture starts from the front still. Motion may change the mouth. It may not change age, jaw, hair, or the dot.
 
 ## Done
 
