@@ -11,5 +11,6 @@ Rebuilt 2026-10-11. This is the house, not a live lesson.
 | Box | Deny by default. See memory/box.md. |
 | Watch | A deny in the audit is a hold. |
 | Ear | Shut. Mic denied. Speaker denied. One tab, not joined. |
+| Lens | Camera denied. No frame. A pause is still not done. |
 | Next gate | The owner names one real procedure, or picks a voice after hearing it. |
 | Open question | Which procedure is the first real one? |

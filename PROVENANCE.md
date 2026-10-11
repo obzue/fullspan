@@ -58,6 +58,8 @@ Also noted while searching, and not used as source text: `sickn33/antigravity-aw
 
 `obzueai-ear` was written after reading two-way speech loops: hear during the whole turn, stop the mouth on real speech, ignore a cough and the agent's own echo, and keep a tool off the speaking path. A second agent is another tab. Names of those loops were not copied.
 
+`obzueai-lens` was written after reading one-shot camera skills and opt-in screen looking. The useful part is a single frame that must be used, with the camera off before and after. Always-on watching and matching a person were left out. The name lens is ours.
+
 ## License stance
 
 Upstream packs remain under their own licenses (MIT and Apache-2.0 were the ones named on the methodology repos; some document skills upstream are source-available rather than open). Fullspan's own files are MIT. Similarity of *ideas* (write the test first, find the root cause, ask one question) is expected. Those ideas are older than any of these repositories. The words here were written for this set.

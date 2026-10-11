@@ -13,6 +13,8 @@ deny file-write fullspan/skills/obzueai-ear/turn.sh
 deny file-write fullspan/skills/obzueai-ear/tab.sh
 deny file-write fullspan/skills/obzueai-ear/pace.sh
 deny file-write fullspan/skills/obzueai-ear/done.sh
+deny file-write fullspan/skills/obzueai-lens/frame.sh
+deny camera *
 deny net *
 deny secret *
 deny process *

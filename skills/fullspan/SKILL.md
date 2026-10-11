@@ -31,6 +31,7 @@ Teaching is `obzueai-corta`. Voice and likeness are `obzueai-presence`. The hous
 | Personality, speech, or a realistic face that must stay one person | `obzueai-presence`. Spoken audio is `obzueai-voice`. What she knows now is `obzueai-aware` |
 | An action that touches a file, the network, a secret, or a process | `obzueai-box`, then `obzueai-watch` |
 | Two-way speech, an interruption, or a second agent | `obzueai-ear` |
+| A camera, or what a pause looks like | `obzueai-lens` |
 | A material choice is still a guess | `fullspan-map` |
 | Intent is clear enough to freeze | `fullspan-promise` |
 | About to produce the artifact | `fullspan-assert` then `fullspan-slice` |

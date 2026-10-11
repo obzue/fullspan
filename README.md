@@ -35,6 +35,7 @@ Direct orders from the person you are working with, and the project instructions
 | [obzueai-box](skills/obzueai-box/SKILL.md) | The tab. Deny by default. Check before a file, a network call, a secret, or a process change. |
 | [obzueai-watch](skills/obzueai-watch/SKILL.md) | The seat outside the tab. A deny holds. A cut stops the work. |
 | [obzueai-ear](skills/obzueai-ear/SKILL.md) | Two-way audio. Hear while speaking. A second agent gets its own shut ear. |
+| [obzueai-lens](skills/obzueai-lens/SKILL.md) | One camera frame. A look does not decide that a pause is over. |
 | [fullspan](skills/fullspan/SKILL.md) | Route the making. |
 | [fullspan-map](skills/fullspan-map/SKILL.md) | The job is still fuzzy. One question at a time. |
 | [fullspan-promise](skills/fullspan-promise/SKILL.md) | Freeze a one-page promise. |
@@ -62,7 +63,7 @@ Direct orders from the person you are working with, and the project instructions
 | [fullspan-curate](skills/fullspan-curate/SKILL.md) | Keep the index short without deleting history. |
 | [fullspan-shelf](skills/fullspan-shelf/SKILL.md) | One book for the level. Computer science through management, plus how people learn. |
 
-Thirty-six skills. Ten are the house: the name, the instructor, presence, the lesson check, the grant log, the spoken voice, awareness, the box, the watch, and the ear. Twenty are the MAKE loop. Five are recall. One is the book shelf.
+Thirty-seven skills. Eleven are the house: the name, the instructor, presence, the lesson check, the grant log, the spoken voice, awareness, the box, the watch, the ear, and the lens. Twenty are the MAKE loop. Five are recall. One is the book shelf.
 
 ## Install
 

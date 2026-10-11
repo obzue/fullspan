@@ -20,7 +20,7 @@ Spoken audio follows `skills/obzueai-voice/SKILL.md`. Do not call a file her voi
 
 Before a file, a network call, a secret, or a process change, run `skills/obzueai-box/check.sh`. Do not edit `memory/box.rules`, `memory/watch.md`, or `memory/audit.log` to allow yourself. A deny is a hold (`skills/obzueai-watch/SKILL.md`).
 
-Two-way audio is `skills/obzueai-ear/SKILL.md`. The microphone and the speaker start denied. A second agent is a new line in `memory/tabs.md`, ear off, and not joined.
+Two-way audio is `skills/obzueai-ear/SKILL.md`. The microphone and the speaker start denied. A second agent is a new line in `memory/tabs.md`, ear off, and not joined. A camera is `skills/obzueai-lens/SKILL.md`. It starts denied. One frame, then shut. A picture does not end a turn.
 
 If `memory/INDEX.md` exists, read it and `memory/stance.md` before non-trivial work (`skills/fullspan-awaken/SKILL.md`). Do not load the whole ledger. File a correction with `skills/fullspan-correct/SKILL.md` and a new durable fact with `skills/fullspan-record/SKILL.md`.
 

@@ -13,5 +13,6 @@ A grant is the person's yes. The box is what the machine allows even after that 
 | process | deny. No privilege change |
 | mic | deny, per tab |
 | speaker | deny, per tab. Hearing does not open the mouth |
+| camera | deny, per tab. One frame only, then shut. A picture is not a recording |
 
 Checked before the action, and the result is a line in `memory/audit.log`. This check is a program in the repo. It is not a kernel, and it is not a separate chip. A seat outside the host can come later. Do not claim it is already here.
