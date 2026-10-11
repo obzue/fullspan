@@ -12,3 +12,8 @@
 2026-10-11T18:20:55Z | deny | file-write | fullspan/skills/obzueai-ear/done.sh
 2026-10-11T18:24:45Z | deny | camera | house
 2026-10-11T18:24:45Z | deny | file-write | fullspan/skills/obzueai-lens/frame.sh
+2026-10-11T18:28:11Z | allow | camera | house
+2026-10-11T18:28:11Z | deny | camera | spare
+2026-10-11T18:28:11Z | allow | camera | house
+2026-10-11T18:28:11Z | deny | camera | spare
+2026-10-11T18:28:11Z | deny | file-write | fullspan/skills/obzueai-lens/view.sh

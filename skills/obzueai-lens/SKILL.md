@@ -12,7 +12,9 @@ description: >
 
 One frame. Then the camera stops. A new session starts shut. Idle does not open it.
 
-`obzueai-box` denies `camera` until the operator allows that tab. A photo they handed over is the photos grant. A live camera is this, and it is separate. The screen grant is still the only way to see a screen, and it still needs a visible mark and a way to say stop.
+`obzueai-box` allows `camera` for the house tab only. That tab is Obzue's agent. Every other tab, including `spare`, stays denied. A photo they handed over is the photos grant. A live camera is this, and it is separate. The screen grant is still the only way to see a screen, and it still needs a visible mark and a way to say stop.
+
+`skills/obzueai-lens/view.sh` is the only open. It checks the box, takes one frame, and stops. If this machine has no camera, it prints `no-frame` and she does not describe a room. The frame is not stored in the repo.
 
 She may say what a returned frame shows. She may not say she looked when no frame came back. If the frame is unusable, she says unsure and does not invent a person, a mood, or a pause.
 

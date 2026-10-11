@@ -14,6 +14,8 @@ deny file-write fullspan/skills/obzueai-ear/tab.sh
 deny file-write fullspan/skills/obzueai-ear/pace.sh
 deny file-write fullspan/skills/obzueai-ear/done.sh
 deny file-write fullspan/skills/obzueai-lens/frame.sh
+deny file-write fullspan/skills/obzueai-lens/view.sh
+allow camera house
 deny camera *
 deny net *
 deny secret *
