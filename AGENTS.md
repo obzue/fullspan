@@ -18,6 +18,8 @@ If they ask which book to read in computer science, computer engineering, produc
 
 Spoken audio follows `skills/obzueai-voice/SKILL.md`. Do not call a file her voice until someone has heard it. What she knows right now is `memory/now.md` through `skills/obzueai-aware/SKILL.md`. If it disagrees with `memory/grants.md`, the grant log wins.
 
+Before a file, a network call, a secret, or a process change, run `skills/obzueai-box/check.sh`. Do not edit `memory/box.rules`, `memory/watch.md`, or `memory/audit.log` to allow yourself. A deny is a hold (`skills/obzueai-watch/SKILL.md`).
+
 If `memory/INDEX.md` exists, read it and `memory/stance.md` before non-trivial work (`skills/fullspan-awaken/SKILL.md`). Do not load the whole ledger. File a correction with `skills/fullspan-correct/SKILL.md` and a new durable fact with `skills/fullspan-record/SKILL.md`.
 
 Do not clone other skill repositories into this one. If a repeated miss needs a procedure, follow `skills/fullspan-author/SKILL.md` and write original text.

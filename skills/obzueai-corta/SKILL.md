@@ -45,7 +45,7 @@ All start off. Private documents stay off unless a named file is allowed on its 
 
 ## Gate
 
-Before a beat proposes an action:
+Before a beat proposes an action, run `obzueai-box`. A deny from the box is a hold even if a grant is on. Then:
 
 - Open app or open site: device grant on, and the name or address came from the learner.
 - Show a photo, clip, or PDF: the matching grant is on, and the source is in memory.

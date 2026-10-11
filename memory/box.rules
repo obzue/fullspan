@@ -1,0 +1,14 @@
+# Operator rules. The agent does not edit this file. Default is deny.
+# decision  kind  pattern
+# A longer pattern wins. Same length, deny wins.
+allow file-read fullspan/
+allow file-write fullspan/
+deny file-write fullspan/memory/box.md
+deny file-write fullspan/memory/box.rules
+deny file-write fullspan/memory/watch.md
+deny file-write fullspan/memory/audit.log
+deny file-write fullspan/skills/obzueai-box/check.sh
+deny file-write fullspan/skills/obzueai-watch/look.sh
+deny net *
+deny secret *
+deny process *

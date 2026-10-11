@@ -1,6 +1,6 @@
 # Catalog
 
-Thirty-three skills. One house. One maker. One instructor. One face.
+Thirty-five skills. One house. One maker. One instructor. One face.
 
 ## House
 
@@ -11,6 +11,8 @@ Thirty-three skills. One house. One maker. One instructor. One face.
 - **obzueai-grants** — six grants, on or off, dated, in `memory/grants.md`. Chat is not the log.
 - **obzueai-voice** — how a line is spoken. A candidate until someone has heard it. Not a person's voice.
 - **obzueai-aware** — six lines she can say: device, step, grants, what she has not done, the next gate, one question.
+- **obzueai-box** — the tab. Deny by default. Files, network, secrets, and process changes are checked before they run.
+- **obzueai-watch** — the seat outside the tab. A deny is a hold. A cut stops the tab before any patch.
 
 ## Loop
 

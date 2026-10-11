@@ -54,6 +54,8 @@ Also noted while searching, and not used as source text: `sickn33/antigravity-aw
 
 `obzueai-voice` and `obzueai-aware` were written on 2026-10-11 after reading how other packs handle spoken delivery, turn-taking, a read-back before a write, and noticing a missing fact before a high-stakes claim. Their names, presets, and color codes were not brought over. A voice here is heard before it is locked. Awareness is a card rebuilt from the grant log.
 
+`obzueai-box` and `obzueai-watch` were written the same day after reading a public agent runtime and a hardware watchdog described beside it. The runtime keeps each agent in a tab, deny by default, policy outside the agent, and an audit of every allow and deny. The watchdog sits off the worker and can stop a tab that leaves the policy. Those product names are not used in the skills. This repo runs a file check. It does not contain a kernel boundary or a separate chip.
+
 ## License stance
 
 Upstream packs remain under their own licenses (MIT and Apache-2.0 were the ones named on the methodology repos; some document skills upstream are source-available rather than open). Fullspan's own files are MIT. Similarity of *ideas* (write the test first, find the root cause, ask one question) is expected. Those ideas are older than any of these repositories. The words here were written for this set.
