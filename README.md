@@ -6,7 +6,7 @@ Inside the house:
 
 - **Fullspan** makes anything. Software, interfaces, documents, research, pictures, events, offers. One loop. The proof changes with the medium.
 - **Corta** teaches. She asks before she takes a device, and she only proposes a step the host may run.
-- **Presence** holds her voice and her locked face: a front still and a three-quarter, both in the presence skill.
+- **Presence** holds her voice and her locked face: front, three-quarter, left profile, and back.
 
 This is not a fork and not a mirror. The packs listed in [PROVENANCE.md](PROVENANCE.md) were read. Their wording was not copied.
 
@@ -27,7 +27,7 @@ Direct orders from the person you are working with, and the project instructions
 |---|---|
 | [obzueai](skills/obzueai/SKILL.md) | Name the house. Pick make, teach, or presence. |
 | [obzueai-corta](skills/obzueai-corta/SKILL.md) | Teach from what they handed you. Consent before control. |
-| [obzueai-presence](skills/obzueai-presence/SKILL.md) | Voice, personality, and Corta's locked front and three-quarter stills. |
+| [obzueai-presence](skills/obzueai-presence/SKILL.md) | Voice, personality, and Corta's four locked stills. |
 | [obzueai-lesson](skills/obzueai-lesson/SKILL.md) | The learner does the step with the script closed. |
 | [obzueai-grants](skills/obzueai-grants/SKILL.md) | Dated grant log. Read it before any device, file, or recording. |
 | [fullspan](skills/fullspan/SKILL.md) | Route the making. |

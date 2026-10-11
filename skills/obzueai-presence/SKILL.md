@@ -5,9 +5,10 @@ description: >
   how Corta or another original speaker talks, disagrees, or refuses, or when
   designing a photoreal face, portrait sheet, talking picture, or a character
   that must stay the same person across shots. Corta's locked stills are
-  corta-front.jpg and corta-three-quarter.jpg in this folder. Triggers on
-  persona, personality, voice, avatar, likeness, portrait, character sheet.
-  Not for copying a living person, a public figure, or a protected character.
+  corta-front.jpg, corta-three-quarter.jpg, corta-profile.jpg, and
+  corta-back.jpg in this folder. Triggers on persona, personality, voice,
+  avatar, likeness, portrait, character sheet. Not for copying a living
+  person, a public figure, or a protected character.
 ---
 
 # Presence
@@ -112,6 +113,8 @@ Locked on 2026-10-11. Original fictional adult. Not a real person and not a publ
 |---|---|
 | Front, neutral, mouth closed | `corta-front.jpg` in this folder |
 | Three-quarter, her left cheek toward the camera | `corta-three-quarter.jpg` in this folder |
+| Left profile, dot visible | `corta-profile.jpg` in this folder |
+| Back, hair and collar only | `corta-back.jpg` in this folder |
 
 Anchor, taken from the front still:
 
@@ -122,7 +125,9 @@ Anchor, taken from the front still:
 
 On the three-quarter the same dot stays on her left cheek and sits a little above the lip corner. That shift is known. Do not add a second dot to "fix" it. Do not move the dot to the other cheek.
 
-Profile and the expression set are not locked yet. Make them from `corta-front.jpg`, not from a fresh description. A talking picture starts from the front still. Motion may change the mouth. It may not change age, jaw, hair, or the dot.
+The profile is her left side, nose toward frame-left, one dot beside the mouth. The back shows the center part, the same shoulder-length hair, and the green collar. The dot is not on the back. Do not invent a mark there.
+
+Expressions are not locked yet. Make them from `corta-front.jpg`, not from a fresh description. A talking picture starts from the front still. Motion may change the mouth. It may not change age, jaw, hair, or the dot.
 
 ## Done
 
