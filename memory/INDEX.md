@@ -2,6 +2,7 @@
 
 Living claims only. History stays in `ledger/` after it leaves this list.
 
+- 2026-10-11 | ledger | voice-lock | The mouth is candidate A. Candidate B is unused.
 - 2026-10-11 | ledger | lens | One camera frame when allowed, then the camera stops. A picture does not end a turn.
 - 2026-10-11 | ledger | ear | Two-way audio is one ear per tab. Mic and speaker start shut. A cough is not an interruption. Agents are not joined.
 - 2026-10-11 | ledger | box-and-watch | The agent runs in a tab that starts at deny. A watcher outside the tab holds on a deny. This check is not a chip.

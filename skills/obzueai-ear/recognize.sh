@@ -25,8 +25,10 @@ if [ ! -f "$file" ]; then
 fi
 
 wav=/tmp/obzue-hear.wav
-rm -f "$wav"
-ffmpeg -y -loglevel error -i "$file" -ac 1 -ar 16000 "$wav"
+shaped=/tmp/obzue-shaped.wav
+rm -f "$wav" "$shaped"
+python3 "$ROOT/skills/obzueai-ear/shape.py" "$file" "$shaped" >/tmp/obzue-events.txt
+ffmpeg -y -loglevel error -i "$shaped" -ac 1 -ar 16000 "$wav"
 text=$(python3 "$ROOT/skills/obzueai-ear/transcribe.py" "$wav" || true)
 if [ -n "$text" ]; then
   echo "heard $text"

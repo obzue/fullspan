@@ -9,7 +9,7 @@ description: >
 
 # Voice
 
-The card in `obzueai-presence` is who she is. This skill is how that card sounds. An engine id is a pointer. It is not the personality.
+The card in `obzueai-presence` is who she is. This skill is how that card sounds. An engine id is a pointer. It is not the personality. The lock is candidate A, in `memory/voice.md`.
 
 No living person's voice. A reference clip is allowed only with their named yes, the use named, and a way to stop. A public clip is not a yes.
 

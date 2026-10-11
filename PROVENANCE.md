@@ -60,7 +60,7 @@ Also noted while searching, and not used as source text: `sickn33/antigravity-aw
 
 `obzueai-lens` was written after reading one-shot camera skills and opt-in screen looking. The useful part is a single frame that must be used, with the camera off before and after. Always-on watching and matching a person were left out. The name lens is ours.
 
-The mouth is two host-engine candidates, not a model trained for this house. The ear is a small unmodified English recognition pack, stored under `skills/obzueai-ear/ear-model`. It writes words. It does not speak.
+The mouth is two host-engine candidates. On 2026-10-11 the owner locked candidate A. Candidate B remains unused. The ear is a small unmodified English recognition pack, stored under `skills/obzueai-ear/ear-model`. It writes words. It does not speak. Before recognition, a studio processor gates noise and levels the file, then frame energy marks onset, dip, and hush. That processor is not a voice.
 
 ## License stance
 
