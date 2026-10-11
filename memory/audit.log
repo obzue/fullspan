@@ -5,3 +5,6 @@
 2026-10-11T18:04:50Z | deny | secret | API_KEY
 2026-10-11T18:04:50Z | allow | file-write | fullspan/memory/notes.md
 2026-10-11T18:04:50Z | deny | file-read | /etc/passwd
+2026-10-11T18:13:16Z | deny | mic | house
+2026-10-11T18:13:16Z | deny | speaker | house
+2026-10-11T18:13:16Z | deny | file-write | fullspan/skills/obzueai-ear/turn.sh

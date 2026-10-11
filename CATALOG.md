@@ -1,6 +1,6 @@
 # Catalog
 
-Thirty-five skills. One house. One maker. One instructor. One face.
+Thirty-six skills. One house. One maker. One instructor. One face.
 
 ## House
 
@@ -13,6 +13,7 @@ Thirty-five skills. One house. One maker. One instructor. One face.
 - **obzueai-aware** — six lines she can say: device, step, grants, what she has not done, the next gate, one question.
 - **obzueai-box** — the tab. Deny by default. Files, network, secrets, and process changes are checked before they run.
 - **obzueai-watch** — the seat outside the tab. A deny is a hold. A cut stops the tab before any patch.
+- **obzueai-ear** — two-way audio on one tab. A cough is not an interruption. A second agent does not share the mic.
 
 ## Loop
 

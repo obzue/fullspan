@@ -21,6 +21,7 @@ Three jobs, three doors. Do not fold them into one blob.
 | Set or keep a voice, a personality, or a realistic face | `obzueai-presence` for the card and the face. `obzueai-voice` when the words are spoken |
 | What she knows right now, or the next closed gate | `obzueai-aware` |
 | A file, a network call, a secret, or a process change | `obzueai-box` before the action, then `obzueai-watch` |
+| She should hear and speak at the same time, or another agent needs an ear | `obzueai-ear` |
 | The project already remembers | `fullspan-awaken`, then the door above |
 
 ## What this house is
